@@ -1,3 +1,6 @@
 .venv
 .env
 document_loader.egg-info
+logs/
+*.pyc
+test.py
